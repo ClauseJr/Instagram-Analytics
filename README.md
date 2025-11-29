@@ -1,1 +1,1 @@
-# Instagram Influencer Performance Analysis Project
+# Instagram Influencer Performance Project
